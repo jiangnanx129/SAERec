@@ -3,6 +3,7 @@
 This repository contains the code and resources for reproducing the results of our paper:
 
 > **SAERec: Constructing Interpretable Intent Priors via Sparse Autoencoders for Recommendation**
+
 ![model](SAERec_framework.pdf) 
 
 ## 🔍 Overview
